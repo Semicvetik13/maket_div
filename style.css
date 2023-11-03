@@ -1,0 +1,45 @@
+.header{
+text-align: center;
+background-color: skyblue;
+color: blue;
+font-size: 22px;
+padding: 10px 0 10px 0;
+}
+.main{
+background-color:#F0E68C ;
+}
+.left{
+   float: left;
+   width: 180px;
+}
+.left p{
+   font-weight: bold;
+}
+.right{
+margin-left: 180px;
+background-image: url(images/ball.gif);
+background-position: right;
+background-repeat: repeat-y;
+background-color: white;
+}
+p{
+   margin-bottom: 0;
+}
+h3{
+   text-align: center;
+   margin: 0;
+}
+img{
+   float: left;
+   margin-left: 10px;
+}
+.footer{
+   text-align: center;
+   background-color: skyblue;
+   color: blue;
+   font-size: 22px;
+   padding: 10px 0 10px 0;
+}
+.both{
+   clear: both;
+}
